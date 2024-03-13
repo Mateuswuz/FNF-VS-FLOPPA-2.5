@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Roomate.png"><SubTexture name="Roomate Down0000" x="0" y="0" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Down0001" x="1160" y="0" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Down0002" x="2320" y="0" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Down0003" x="3480" y="0" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Down0004" x="4640" y="0" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Up0000" x="0" y="898" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Up0001" x="1160" y="898" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Up0002" x="2320" y="898" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Up0003" x="3480" y="898" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Up0004" x="4640" y="898" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Left0000" x="0" y="1796" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Left0001" x="1160" y="1796" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Left0002" x="2320" y="1796" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Left0003" x="3480" y="1796" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Left0004" x="4640" y="1796" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Right0000" x="0" y="2694" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Right0001" x="1160" y="2694" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Right0002" x="2320" y="2694" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Right0003" x="3480" y="2694" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Right0004" x="4640" y="2694" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Idle0000" x="0" y="3592" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Idle0001" x="1160" y="3592" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Idle0002" x="2320" y="3592" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Idle0003" x="3480" y="3592" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+<SubTexture name="Roomate Idle0004" x="4640" y="3592" width="1160" height="898" frameX="0" frameY="0" frameWidth="1160" frameHeight="898" />
+</TextureAtlas>
