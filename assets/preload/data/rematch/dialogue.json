@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "waow floppa u had an epic 1v1 with bingus"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im tired"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "noone asked"
+		},
+		{
+			"sound": "sadflop",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "waaaaaaaaa"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hahahahahahahahahahahahahahahahhahahahahahahahhahahahahahahahahahahahahahahhahahaahahahahahahahahahahahahahahhahahahahahahahhahahahahahahahahahahahahahahhaha\\nu fell for my epic trick!!!!11111"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NoOOOoOOOooooOOOOOOOooo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok sing now carcal"
+		}
+	]
+}
