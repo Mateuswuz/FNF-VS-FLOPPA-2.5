@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HousePARTYFLOOR.png"><SubTexture name="HousePARTYFLOOR idle0000" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0001" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0002" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0003" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0004" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0005" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0006" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0007" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0008" x="0" y="1170" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0009" x="0" y="1170" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0010" x="0" y="1170" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="HousePARTYFLOOR idle0011" x="0" y="1170" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+</TextureAtlas>
